@@ -15,11 +15,22 @@ https://encurtador.com.br/eV7YF<br>
 <br>
 
 ##
+<!-- Imagens -->
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/0da3b1f5-c5f8-418c-b842-b911861064f3" 
-         width="50" 
-         style="border-radius: 20%">
+      <!-- Karen -->
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/0da3b1f5-c5f8-418c-b842-b911861064f3" 
+             width="50" 
+             style="border-radius: 20%">
+      </td>
+      <!-- Evelyn -->
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/3d05e7ad-2153-4364-8c57-d965c35c559f" 
+             width="50" 
+             style="border-radius: 20%">
+      </td>
 </div>
-   
-<div align="center">Feito por <a href="https://github.com/kaahbeatrizz">Kaahbeatrizz</a>.</div>
+
+<!-- Footer -->
+<div align="center">Desenvolvido por <a href="https://github.com/kaahbeatrizz">Kaahbeatrizz</a> e <a href="https://github.com/IviNeri">IviNeri.</a></div>
