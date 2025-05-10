@@ -15,4 +15,11 @@ https://encurtador.com.br/eV7YF<br>
 <br>
 
 ##
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/0da3b1f5-c5f8-418c-b842-b911861064f3" 
+         width="50" 
+         style="border-radius: 20%">
+</div>
+   
 <div align="center">Feito por <a href="https://github.com/kaahbeatrizz">Kaahbeatrizz</a>.</div>
